@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2f6539ee-5e15-4ada-bf06-3451e2b734a5" name="Changes" comment="" />
+    <list default="true" id="2f6539ee-5e15-4ada-bf06-3451e2b734a5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/testcase/TC4_Search_InputBox.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/Test-Report-2024.05.14.12.03.03.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/Test-Report-2024.05.14.14.25.58.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/Test-Report-2024.05.14.20.41.15.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/Test-Report-2024.05.14.20.42.31.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/Test-Report-2024.05.14.20.43.34.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/Test-Report-2024.05.14.20.46.45.html" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
