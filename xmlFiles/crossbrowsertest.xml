@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Mysuite" thread-count="5" parallel="tests">
+    <parameter name="os" value="windows"/>
+    <parameter name="browser" value="chrome"/>
+    <listeners>
+        <listener class-name="Utilities.ExtentReportManager"/>
+    </listeners>
+    <test name="test1">
+        <classes>
+            <class name="testcase.TC1_Verify_Account_RegistrationPage"/>
+        </classes>
+    </test>
+    <test name="test2">
+        <classes>
+            <class name="testcase.TC1_Verify_Account_RegistrationPage"/>
+        </classes>
+    </test>
+
+</suite>

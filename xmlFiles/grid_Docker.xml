@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="MySuite">
+    <listeners>
+        <listener class-name="Utilities.ExtentReportManager"/>
+    </listeners>
+    <test thread-count="5" name="Linux-chrome">
+        <parameter name="os" value="Linux"/>
+        <parameter name="browser" value="chrome"/>
+        <classes>
+            <!-- <class name="testcase.TC1_Verify_Account_RegistrationPage"/>-->
+            <class name="testcase.TC2_Verify_Login_Page"/>
+            <!-- <class name="testcase.TC3_LoginDataDriven_Test"/> -->
+        </classes>
+    </test>
+</suite>
