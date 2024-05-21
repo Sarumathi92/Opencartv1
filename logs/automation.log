@@ -1,82 +1,23 @@
-2024-05-14 12:03:03 INFO  Utils:112 - [TestNG] Running:
-  C:\Users\mathi\IdeaProjects\Opencartv1\xmlFiles\grid_Docker.xml
-
-2024-05-14 12:03:03 INFO  TC2_Verify_Login_Page:52 - Initializing logger
-2024-05-14 12:03:29 INFO  TC2_Verify_Login_Page:19 - ******Click my account
-2024-05-14 12:03:30 INFO  TC2_Verify_Login_Page:22 - ***Click login link
-2024-05-14 12:03:30 INFO  TC2_Verify_Login_Page:23 - **** Login test started
-2024-05-14 12:03:30 INFO  TC2_Verify_Login_Page:29 -  ***** Enter email
-2024-05-14 12:03:30 INFO  TC2_Verify_Login_Page:31 - ***** Enter password
-2024-05-14 12:03:31 INFO  TC2_Verify_Login_Page:33 - ***** Click Login
-2024-05-14 12:03:31 INFO  TC2_Verify_Login_Page:39 - ****Sucessfull login
-2024-05-14 12:03:31 INFO  TC2_Verify_Login_Page:86 - Shut down chrome driver
-2024-05-14 14:25:58 INFO  Utils:112 - [TestNG] Running:
-  C:\Users\mathi\IdeaProjects\Opencartv1\xmlFiles\grid_Docker.xml
-
-2024-05-14 14:25:58 INFO  TC2_Verify_Login_Page:52 - Initializing logger
-2024-05-14 14:26:18 INFO  TC2_Verify_Login_Page:19 - ******Click my account
-2024-05-14 14:26:20 INFO  TC2_Verify_Login_Page:22 - ***Click login link
-2024-05-14 14:26:20 INFO  TC2_Verify_Login_Page:23 - **** Login test started
-2024-05-14 14:26:20 INFO  TC2_Verify_Login_Page:29 -  ***** Enter email
-2024-05-14 14:26:20 INFO  TC2_Verify_Login_Page:31 - ***** Enter password
-2024-05-14 14:26:21 INFO  TC2_Verify_Login_Page:33 - ***** Click Login
-2024-05-14 14:26:22 INFO  TC2_Verify_Login_Page:39 - ****Sucessfull login
-2024-05-14 14:26:22 INFO  TC2_Verify_Login_Page:86 - Shut down chrome driver
-2024-05-14 20:34:04 INFO  Utils:112 - [TestNG] Running:
+2024-05-20 19:24:26 INFO  Utils:112 - [TestNG] Running:
   C:\Users\mathi\IdeaProjects\Opencartv1\xmlFiles\testng.xml
 
-2024-05-14 20:34:04 INFO  TC2_Verify_Login_Page:52 - Initializing logger
-2024-05-14 20:35:49 INFO  TC2_Verify_Login_Page:52 - Initializing logger
-2024-05-14 20:38:05 INFO  TC2_Verify_Login_Page:52 - Initializing logger
-2024-05-14 20:40:00 INFO  Utils:112 - [TestNG] Running:
+2024-05-20 19:28:45 INFO  Utils:112 - [TestNG] Running:
   C:\Users\mathi\IdeaProjects\Opencartv1\xmlFiles\testng.xml
 
-2024-05-14 20:40:01 INFO  TC2_Verify_Login_Page:52 - Initializing logger
-2024-05-14 20:41:15 INFO  Utils:112 - [TestNG] Running:
+2024-05-20 19:28:46 INFO  TC4_Search_InputBox:52 - Initializing logger
+2024-05-20 19:29:21 INFO  TC4_Search_InputBox:86 - Shut down chrome driver
+2024-05-20 19:32:04 INFO  Utils:112 - [TestNG] Running:
   C:\Users\mathi\IdeaProjects\Opencartv1\xmlFiles\testng.xml
 
-2024-05-14 20:41:16 INFO  TC2_Verify_Login_Page:52 - Initializing logger
-2024-05-14 20:41:57 INFO  TC2_Verify_Login_Page:19 - ******Click my account
-2024-05-14 20:42:08 INFO  TC2_Verify_Login_Page:22 - ***Click login link
-2024-05-14 20:42:08 INFO  TC2_Verify_Login_Page:23 - **** Login test started
-2024-05-14 20:42:08 INFO  TC2_Verify_Login_Page:29 -  ***** Enter email
-2024-05-14 20:42:09 INFO  TC2_Verify_Login_Page:31 - ***** Enter password
-2024-05-14 20:42:09 INFO  TC2_Verify_Login_Page:33 - ***** Click Login
-2024-05-14 20:42:09 INFO  TC2_Verify_Login_Page:39 - ****Sucessfull login
-2024-05-14 20:42:09 INFO  TC2_Verify_Login_Page:86 - Shut down chrome driver
-2024-05-14 20:42:32 INFO  TC2_Verify_Login_Page:52 - Initializing logger
-2024-05-14 20:43:00 INFO  TC2_Verify_Login_Page:19 - ******Click my account
-2024-05-14 20:43:01 INFO  TC2_Verify_Login_Page:22 - ***Click login link
-2024-05-14 20:43:01 INFO  TC2_Verify_Login_Page:23 - **** Login test started
-2024-05-14 20:43:01 INFO  TC2_Verify_Login_Page:29 -  ***** Enter email
-2024-05-14 20:43:01 INFO  TC2_Verify_Login_Page:31 - ***** Enter password
-2024-05-14 20:43:02 INFO  TC2_Verify_Login_Page:33 - ***** Click Login
-2024-05-14 20:43:02 INFO  TC2_Verify_Login_Page:39 - ****Sucessfull login
-2024-05-14 20:43:02 INFO  TC2_Verify_Login_Page:86 - Shut down chrome driver
-2024-05-14 20:43:34 INFO  TC2_Verify_Login_Page:52 - Initializing logger
-2024-05-14 20:44:06 INFO  TC2_Verify_Login_Page:19 - ******Click my account
-2024-05-14 20:44:06 INFO  TC2_Verify_Login_Page:22 - ***Click login link
-2024-05-14 20:44:06 INFO  TC2_Verify_Login_Page:23 - **** Login test started
-2024-05-14 20:44:06 INFO  TC2_Verify_Login_Page:29 -  ***** Enter email
-2024-05-14 20:44:07 INFO  TC2_Verify_Login_Page:31 - ***** Enter password
-2024-05-14 20:44:07 INFO  TC2_Verify_Login_Page:33 - ***** Click Login
-2024-05-14 20:44:07 INFO  TC2_Verify_Login_Page:39 - ****Sucessfull login
-2024-05-14 20:44:07 INFO  TC2_Verify_Login_Page:86 - Shut down chrome driver
-2024-05-14 20:46:03 INFO  Utils:112 - [TestNG] Running:
+2024-05-20 19:32:04 INFO  TC4_Search_InputBox:52 - Initializing logger
+2024-05-20 19:32:26 INFO  TC4_Search_InputBox:86 - Shut down chrome driver
+2024-05-20 19:32:46 INFO  Utils:112 - [TestNG] Running:
   C:\Users\mathi\IdeaProjects\Opencartv1\xmlFiles\testng.xml
 
-2024-05-14 20:46:04 INFO  TC2_Verify_Login_Page:52 - Initializing logger
-2024-05-14 20:46:31 INFO  TC2_Verify_Login_Page:19 - ******Click my account
-2024-05-14 20:46:33 INFO  TC2_Verify_Login_Page:22 - ***Click login link
-2024-05-14 20:46:33 INFO  TC2_Verify_Login_Page:23 - **** Login test started
-2024-05-14 20:46:33 INFO  TC2_Verify_Login_Page:29 -  ***** Enter email
-2024-05-14 20:46:33 INFO  TC2_Verify_Login_Page:31 - ***** Enter password
-2024-05-14 20:46:45 INFO  TC2_Verify_Login_Page:52 - Initializing logger
-2024-05-14 20:46:49 INFO  TC2_Verify_Login_Page:19 - ******Click my account
-2024-05-14 20:46:58 INFO  TC2_Verify_Login_Page:22 - ***Click login link
-2024-05-14 20:46:58 INFO  TC2_Verify_Login_Page:23 - **** Login test started
-2024-05-14 20:46:58 INFO  TC2_Verify_Login_Page:29 -  ***** Enter email
-2024-05-14 20:46:58 INFO  TC2_Verify_Login_Page:31 - ***** Enter password
-2024-05-14 20:46:59 INFO  TC2_Verify_Login_Page:33 - ***** Click Login
-2024-05-14 20:46:59 INFO  TC2_Verify_Login_Page:39 - ****Sucessfull login
-2024-05-14 20:46:59 INFO  TC2_Verify_Login_Page:86 - Shut down chrome driver
+2024-05-20 19:32:46 INFO  TC4_Search_InputBox:52 - Initializing logger
+2024-05-20 19:33:09 INFO  TC4_Search_InputBox:86 - Shut down chrome driver
+2024-05-20 19:34:14 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\mathi\IdeaProjects\Opencartv1\xmlFiles\testng.xml
+
+2024-05-20 19:34:14 INFO  TC4_Search_InputBox:52 - Initializing logger
+2024-05-20 19:34:36 INFO  TC4_Search_InputBox:86 - Shut down chrome driver
