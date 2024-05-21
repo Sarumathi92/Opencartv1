@@ -1,23 +1,8 @@
-2024-05-20 19:24:26 INFO  Utils:112 - [TestNG] Running:
+2024-05-21 10:09:46 INFO  Utils:112 - [TestNG] Running:
   C:\Users\mathi\IdeaProjects\Opencartv1\xmlFiles\testng.xml
 
-2024-05-20 19:28:45 INFO  Utils:112 - [TestNG] Running:
+2024-05-21 10:10:24 INFO  Utils:112 - [TestNG] Running:
   C:\Users\mathi\IdeaProjects\Opencartv1\xmlFiles\testng.xml
 
-2024-05-20 19:28:46 INFO  TC4_Search_InputBox:52 - Initializing logger
-2024-05-20 19:29:21 INFO  TC4_Search_InputBox:86 - Shut down chrome driver
-2024-05-20 19:32:04 INFO  Utils:112 - [TestNG] Running:
-  C:\Users\mathi\IdeaProjects\Opencartv1\xmlFiles\testng.xml
-
-2024-05-20 19:32:04 INFO  TC4_Search_InputBox:52 - Initializing logger
-2024-05-20 19:32:26 INFO  TC4_Search_InputBox:86 - Shut down chrome driver
-2024-05-20 19:32:46 INFO  Utils:112 - [TestNG] Running:
-  C:\Users\mathi\IdeaProjects\Opencartv1\xmlFiles\testng.xml
-
-2024-05-20 19:32:46 INFO  TC4_Search_InputBox:52 - Initializing logger
-2024-05-20 19:33:09 INFO  TC4_Search_InputBox:86 - Shut down chrome driver
-2024-05-20 19:34:14 INFO  Utils:112 - [TestNG] Running:
-  C:\Users\mathi\IdeaProjects\Opencartv1\xmlFiles\testng.xml
-
-2024-05-20 19:34:14 INFO  TC4_Search_InputBox:52 - Initializing logger
-2024-05-20 19:34:36 INFO  TC4_Search_InputBox:86 - Shut down chrome driver
+2024-05-21 10:10:25 INFO  TC5_Add_to_Cart:52 - Initializing logger
+2024-05-21 10:11:16 INFO  TC5_Add_to_Cart:86 - Shut down chrome driver

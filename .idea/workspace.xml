@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2f6539ee-5e15-4ada-bf06-3451e2b734a5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/pageObjects/Search_InputBoxPOM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testcase/TC5_Add_to_Cart.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/logs/automation.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/automation.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/testcase/TC4_Search_InputBox.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testcase/TC4_Search_InputBox.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/config.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pageObjects/Add_To_Cart_POM.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pageObjects/Add_To_Cart_POM.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/xmlFiles/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/xmlFiles/testng.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
